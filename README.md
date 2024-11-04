@@ -19,9 +19,9 @@
 
 
 1.게임시작
-
+<br>
 <img src="https://github.com/user-attachments/assets/891d1d3f-4cdc-42c1-a8b1-7276d67fabc8" width="300">
-
+<br>
 2.강화(성공/실패/파괴)
 
 성공
@@ -35,19 +35,28 @@
 파괴
 <br>
 <img src="https://github.com/user-attachments/assets/fa0757f0-66a1-41b0-9bf2-9276ca20e721" width="300">
-
+<br>
 
 3.미니게임(스타캐치)
 미니게임
+<br>
 <img src="https://github.com/user-attachments/assets/6410abae-7244-4bfc-986f-87c88a64812a" width="300">
-
+<br>
+실패
+<br>
+<img src="https://github.com/user-attachments/assets/b05f74b0-96bb-48e8-a1f7-c595566ac188" width="300">
+<br>
 
 4.업적
-<img src="https://github.com/user-attachments/assets/891d1d3f-4cdc-42c1-a8b1-7276d67fabc8" width="300">
+<br>
+<img src="https://github.com/user-attachments/assets/87fa41c1-d6ed-4982-ae34-68a0f6ab1577" width="300">
+<br>
 
 5.파괴방지
-<img src="https://github.com/user-attachments/assets/891d1d3f-4cdc-42c1-a8b1-7276d67fabc8" width="300">
-
+<br>
+<img src="https://github.com/user-attachments/assets/be4d32b9-2351-4ebc-bde9-bc2e4c895b77" width="300">
+<br>
 6.게임오버
-<img src="https://github.com/user-attachments/assets/891d1d3f-4cdc-42c1-a8b1-7276d67fabc8" width="300">
+<br>
+<img src="https://github.com/user-attachments/assets/45320585-bbf1-4c92-b806-0253ad8b51c5" width="300">
 
