@@ -22,11 +22,10 @@
 ![흐름도 (1)](https://github.com/user-attachments/assets/0dac5413-2ae3-44b4-810d-3bf70b13b189)
 
 ## 1. 게임시작
-<br>
 <img src="https://github.com/user-attachments/assets/891d1d3f-4cdc-42c1-a8b1-7276d67fabc8" width="300">
 <br>
-## 2. 강화(성공/실패/파괴)
 
+## 2. 강화(성공/실패/파괴)
 성공
 <br>
 <img src="https://github.com/user-attachments/assets/1c084c29-1aa4-4640-a25a-df0e44969c03" width="300">
