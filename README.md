@@ -50,16 +50,13 @@
 <br>
 
 ## 4. 업적
-<br>
 <img src="https://github.com/user-attachments/assets/87fa41c1-d6ed-4982-ae34-68a0f6ab1577" width="300">
 <br>
 
 ## 5. 파괴방지
-<br>
 <img src="https://github.com/user-attachments/assets/be4d32b9-2351-4ebc-bde9-bc2e4c895b77" width="300">
 <br>
 
 ## 6. 게임오버
-<br>
 <img src="https://github.com/user-attachments/assets/45320585-bbf1-4c92-b806-0253ad8b51c5" width="300">
 
