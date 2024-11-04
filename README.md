@@ -25,12 +25,16 @@
 2.강화(성공/실패/파괴)
 
 성공
-<img src="https://github.com/user-attachments/assets/1c084c29-1aa4-4640-a25a-df0e44969c03" width="200">
+<br>
+<img src="https://github.com/user-attachments/assets/1c084c29-1aa4-4640-a25a-df0e44969c03" width="300">
 <br>
 실패
-<img src="https://github.com/user-attachments/assets/c74df6b3-dc1c-4a84-a3b5-d08f709dddfd" width="200">
+<br>
+<img src="https://github.com/user-attachments/assets/c74df6b3-dc1c-4a84-a3b5-d08f709dddfd" width="300">
+<br>
 파괴
-<img src="https://github.com/user-attachments/assets/fa0757f0-66a1-41b0-9bf2-9276ca20e721" width="200">
+<br>
+<img src="https://github.com/user-attachments/assets/fa0757f0-66a1-41b0-9bf2-9276ca20e721" width="300">
 
 
 3.미니게임(스타캐치)
