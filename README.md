@@ -19,7 +19,8 @@
 
 
 1.게임시작
-![gamestart](https://github.com/user-attachments/assets/891d1d3f-4cdc-42c1-a8b1-7276d67fabc8)
+<img src="https://github.com/user-attachments/assets/891d1d3f-4cdc-42c1-a8b1-7276d67fabc8" width="300">
+
 
 2.강화(성공/실패/파괴)
 
